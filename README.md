@@ -1,30 +1,30 @@
 # Orozco Markdown Editor Plugin
 
-> ·s¥_¥«
->>ªO¾ô°Ï
+> æ–°åŒ—å¸‚
+>>æ¿æ©‹å€
 
 *   Red
 *   Green
 *   Blue
 
 
-³s¥~³¡¶W³sµ²¡G
-[Yahoo ©_¼¯](http://tw.yahoo.com)
+é€£å¤–éƒ¨è¶…é€£çµï¼š
+[Yahoo å¥‡æ‘©](http://tw.yahoo.com)
 
 
-¦r«¬¡G
-**²ÊÅé**
+å­—å‹ï¼š
+**ç²—é«”**
 
-*±×Åé*
+*æ–œé«”*
 
-~~§R°£½u~~
+~~åˆªé™¤ç·š~~
 
-ªí®æ¡G
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
+| test | æ¸¬è©¦        |    $3333 |
 
 
 ```js
